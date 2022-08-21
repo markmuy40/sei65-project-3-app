@@ -81,29 +81,3 @@
   background-position: center;
   background-color: $egg-blue;
 }
-
-// return (
-//   <>
-//     <div className="topic-div">
-//       <h1 className='text-center'>Topics</h1>
-//     </div><Container as="main">
-//       <Row>
-//         {topic.map(titles => {
-//           const { _id, topic, description, imageUrl } = titles
-//           // console.log('topic', topic)
-//           return (
-//             <Col key={_id} className='mb-4'>
-//               <Card className="topic">
-//                 <div>
-//                   <Card.Title className="title" as={Link} to={`/topic/${_id}`}>{topic}</Card.Title>
-//                   <Card.Body className="description">{description}</Card.Body>
-//                 </div>
-//                 <Card.Img className="image" src={imageUrl}></Card.Img>
-//               </Card>
-//             </Col>
-//           )
-//         })}
-//       </Row>
-//     </Container>
-//   </>
-// )

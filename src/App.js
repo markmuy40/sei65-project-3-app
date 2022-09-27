@@ -14,7 +14,6 @@ import Register from './components/Register'
 import TopicPage from './components/TopicPage'
 import NotFound from './components/NotFound' 
 
-
 const App = () => {
 
   useEffect(() => {
@@ -25,7 +24,6 @@ const App = () => {
       axios.defaults.headers.common['Authorization'] = null
     }
   }, [])
-
 
   return (
     <div className= 'App'>
@@ -43,7 +41,6 @@ const App = () => {
         <Footer />
       </BrowserRouter>
     </div>
-
   )
 }  
 export default App

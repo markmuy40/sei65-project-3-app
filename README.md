@@ -38,28 +38,28 @@ https://github.com/rokster112
 ### Technologies Used
  
 #### Front-end
-HTML
-CSS
-SASS
-JavaScript
-React.JS
-React Bootstrap
-Netlify – Front-end deployment.
+- HTML
+- CSS
+- SASS
+- JavaScript
+- React.JS
+- React Bootstrap
+- Netlify – Front-end deployment.
  
  
 #### Back-end / API
-ExpressJS – Routing for Node.JS.
-Mongoose – Object modelling for Node.JS.
-Node.JS – JavaScript runtime environment.
-MongoDB – Database and Compass for checking data.
-Heroku – Back-end deployment.
+- ExpressJS – Routing for Node.JS.
+- Mongoose – Object modelling for Node.JS.
+- Node.JS – JavaScript runtime environment.
+- MongoDB – Database and Compass for checking data.
+- Heroku – Back-end deployment.
  
  
 #### Development Tools
-VSCode – Primary build tool.
-Google Dev Tools – inc. Pesticide for Chrome to assist in layout.
-Insomnia – Testing the API for requests and Database response.
-GitHub – Version control.
+- VSCode – Primary build tool.
+- Google Dev Tools – inc. Pesticide for Chrome to assist in layout.
+- Insomnia – Testing the API for requests and Database response.
+- GitHub – Version control.
  
  
 ### Brief
